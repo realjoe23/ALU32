@@ -34,3 +34,16 @@ Este documento describe las características y el funcionamiento del *testbench*
 
 ### 4. Simulación con ModelSim
 - Se incluyen retardos (`#100;`) para observar los cambios en las señales.
+
+# Test Bench de ALU de 32 bits sin bloquo en verilog por Yahir Efren Borboa Quintero
+
+Banco de pruebas de Unidad Aritmético-Lógica (ALU) de 32 bits en Verilog. La ALU es capaz de realizar diversas operaciones aritméticas y lógicas sin bloqueo.
+
+## Características
+- Operaciones soportadas:
+  - Suma (`A + B`)
+  - Resta (`A - B`)
+  - AND (`A & B`)
+  - OR (`A | B`)
+  - Comparación (`A < B`)
+- Indicador de bandera de cero (`Zero_Flag`)
