@@ -1,0 +1,35 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vALU
+!s110 1740585659
+!i10b 1
+!s100 0SVEli5:aj=iN_T_ShJ?c1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IMZc804VcEA^Z2YM8HHY`W3
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/Joe/ALU32
+w1740585170
+8C:/Users/Joe/ALU32/ALU32.v
+FC:/Users/Joe/ALU32/ALU32.v
+!i122 0
+L0 4 22
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1740585659.000000
+!s107 C:/Users/Joe/ALU32/ALU32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Joe/ALU32/ALU32.v|
+!i113 1
+o-work work
+tCvgOpt 0
+n@a@l@u
