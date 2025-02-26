@@ -12,7 +12,3 @@ Unidad Aritmético-Lógica (ALU) de 32 bits en Verilog. La ALU es capaz de reali
 - Indicador de bandera de cero (`Zero_Flag`)
 - Implementación sin bloqueo (`always @(*)`)
 
-## Estructura del Proyecto
-- `alu_32bit.v`: Código fuente de la ALU en Verilog.
-- `README.md`: Este archivo con la documentación del repositorio.
-
