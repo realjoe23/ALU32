@@ -47,3 +47,11 @@ Banco de pruebas de Unidad Aritmético-Lógica (ALU) de 32 bits en Verilog. La A
   - OR (`A | B`)
   - Comparación (`A < B`)
 - Indicador de bandera de cero (`Zero_Flag`)
+  
+### 2. Generación de Estímulos
+- Se aplican valores de prueba a `A` y `B`, incluyendo:
+- Números positivos en decimal.
+
+### 3. Verificación de Resultados
+- Se comparan las salidas con los valores esperados.
+- Se generan mensajes de error si los resultados no coinciden.
